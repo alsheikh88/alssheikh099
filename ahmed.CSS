@@ -1,0 +1,60 @@
+body{
+    background-color:rgba(3, 47, 97, 0.877);
+    font-family: 'Cairo', sans-serif;
+font-family: 'Changa', sans-serif;
+font-family: 'El Messiri', sans-serif;
+}
+#mother{
+    width:100%;
+    font-size:20px;
+}
+main{
+    float:left;
+    border:1px solid rgb(228, 222, 222);
+    padding:5px;
+}
+input{
+    padding:4px;
+    border:2px solid rgb(8, 8, 8);
+    text-align:center;
+    font-size:17px;
+    font-family: 'Cairo', sans-serif;
+font-family: 'Changa', sans-serif;
+font-family: 'El Messiri', sans-serif;
+}
+aside{
+    text-align:center;
+    width:300px;
+    float:right;
+    border:1px solid rgb(236, 229, 229);
+    padding:10px;
+    font-size:20px;
+    background-color:rgb(7, 52, 70); 
+    color:rgba(245, 240, 240, 0.993); 
+}
+#tbl{
+    width:890px;
+    font-size:20px;
+    text-align: center;
+}
+#tbl:hover{
+    color: black;
+    background-color: aliceblue;
+}
+#tbl th{
+    background-color:rgb(7, 52, 70); 
+    color:rgba(245, 240, 240, 0.993);
+    font-size:20px;
+    padding:10px;
+    text-align: center;
+}
+aside button{
+    width:180px;
+    padding:8px;
+    margin-top:7px;
+    font-size:17px;
+    font-family: 'Cairo', sans-serif;
+font-family: 'Changa', sans-serif;
+font-family: 'El Messiri', sans-serif;
+    font-weight:bold;
+}
